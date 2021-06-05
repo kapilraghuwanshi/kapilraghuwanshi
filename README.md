@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-My name is Kapil Raghuwanshi😄, software engineer👨🏻‍💻 hailing from India!🇮🇳 (Call me: Kaps)
+My name is Kapil Raghuwanshi👨🏻, software engineer👨🏻‍💻 hailing from India!🇮🇳 (Prefers using name: techygeeky)
 
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -13,13 +13,13 @@ My name is Kapil Raghuwanshi😄, software engineer👨🏻‍💻 hailing from 
 
 I'm technology craving and computer enthusiast, Full Stack Web, and Multiplatform Hybrid Mobile App developer always ready to learn and adopt new technologies at work.
 
-Techygeeky not from IIT or NIT but proficient in developing rich UI, high volume, and low latency cross-platform Web and Mobile applications using React.js, Angular 10, Ionic 4 and IO & Network-intensive Node.js backend services and APIs with other Javascript related technologies.
+Proficient in developing rich UI, high volume, and low latency cross-platform Web and Mobile applications using React.js, Angular 10, Ionic 4 and IO & Network-intensive Node.js backend services and APIs with other Javascript related technologies.
 
 I'm currently programming in & as a MEAN & MERN Stack developer with the latest Angular, React, Node, Express and MongoDB and studying and exploring Machine Learning along with Deep Learning in my spare time. Check out my repos here.
 
-I'm an enthusiastic Tech Writer and Public Speaker. I write consistently on Medium under top publications like The StartUp, Better Programming, Towards Data Science and other famous tech blogging websites like FreeCodeCamp and HackerNoon. Love to share my knowledge through various webinars and tutorials.
+I'm an enthusiastic Tech Writer and Public Speaker. I write consistently on Medium under top publications like The StartUp, Better Programming, Towards Data Science and other famous tech blogging websites like FreeCodeCamp and HackerNoon etc. Love to share my knowledge through various webinars and tutorials. So far I have more than 20,000 views/reads on my articles.
 
-Received Communicator and Advanced Leadership Bronze certification by Toastmaster International. Also, spoke at few platforms and Open for all Tech Talks, Tech Meet hosting, and other public speaking platforms.
+Received Communicator and Advanced Leadership Bronze certification by Toastmaster International. Also, spoke at many platforms regarding tech. Open for all Tech Talks, Tech Meet hosting, and other public speaking platforms too.
 
 I decided to continue my work and study in the fields of Software product development in Computer Science. I wish to help the world, the common people with my technical skills and inventions. It's my all-time dream to become a visionary leader, an orator, and a philanthropist.
 
@@ -38,4 +38,4 @@ I decided to continue my work and study in the fields of Software product develo
 
 Portfolio Website: https://about.me/kialabs
 
-- Favorite Quote:- "Be fearless🦁 in the pursuit of what sets your soul on fire!⚡"
+- "Be fearless🦁 in the pursuit of what sets your soul on fire!⚡"
