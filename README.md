@@ -18,46 +18,55 @@ I write consistently on Medium under top publications like The StartUp, Better P
 
 I run a software Tech Lab named as "Kia Labs", through which I am publishing all my software products. List of which given below:
 
-(1) 𝗕𝗶𝗻𝗴𝗲 𝗦𝗲𝗮𝗿𝗰𝗵🔍-𝗬𝗼𝘂𝗿 𝗢𝗻𝗹𝗶𝗻𝗲 𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗚𝘂𝗶𝗱𝗲🎥😍
+(1) 𝗕𝗶𝗻𝗴𝗲 𝗦𝗲𝗮𝗿𝗰𝗵🔍 - 𝗬𝗼𝘂𝗿 𝗢𝗻𝗹𝗶𝗻𝗲 𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗚𝘂𝗶𝗱𝗲🎥😍
+
 Android: http://tiny.cc/8gwysz
+
 Website/PWA: https://www.bingesearch.com
 
 𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨:🎉
-1. Search your next binge-watch content.
-2. Your watch is just one click away.
+* Search your next binge-watch content.
+* Your watch is just one click away.
 
-(2) 𝗪𝗼𝗿𝗹𝗱 𝗧𝗼𝗽 𝗡𝗲𝘄𝘀-𝗥𝗲𝗮𝗱 𝘁𝗵𝗲 𝗯𝘂𝗹𝗹𝗲𝘁𝗶𝗻𝘀 𝗶𝗻 𝘀𝗵𝗼𝗿𝘁😍
+(2) 𝗪𝗼𝗿𝗹𝗱 𝗧𝗼𝗽 𝗡𝗲𝘄𝘀 - 𝗥𝗲𝗮𝗱 𝘁𝗵𝗲 𝗯𝘂𝗹𝗹𝗲𝘁𝗶𝗻𝘀 𝗶𝗻 𝘀𝗵𝗼𝗿𝘁😍
+
 Android: https://goo.gl/TxUuUm
+
 PWA: https://worldtopnews-91916.web.app/
 
 𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨🎉
-1. Share the latest news with your friends and family members through WhatsApp, FB, Twitter⤴️
-2. Select from the world's best exclusively hand-picked Publishers📚
-3. Dive into Categories - Business, Technology, Health, Sports, Science & Entertainment📽️
-4. Save your favorite news articles on the device for a future read
+* Share the latest news with your friends and family members through WhatsApp, FB, Twitter⤴️
+* Select from the world's best exclusively hand-picked Publishers📚
+* Dive into Categories - Business, Technology, Health, Sports, Science & Entertainment📽️
+* Save your favorite news articles on the device for a future read.
 
 (3) 𝗖𝗼𝗿𝗼𝗻𝗮 𝗧𝗿𝗮𝗰𝗸𝗲𝗿📊 - 𝗧𝗿𝗮𝗰𝗸 𝘁𝗵𝗲 𝗹𝗮𝘁𝗲𝘀𝘁 𝗖𝗼𝗿𝗼𝗻𝗮 𝗩𝗶𝗿𝘂𝘀 𝗰𝗮𝘀𝗲𝘀 𝗮𝗿𝗼𝘂𝗻𝗱 𝘆𝗼𝘂📒
+
 PWA: https://coronatracker-20efc.web.app/
+
 App: https://tinyurl.com/ydgjzvfg
 
 𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨🎉
-1. Get the latest numbers Total, Recovered & Deaths cases from the whole world in a single Dashboard⤴️
-2. Visualize all the numbers through various illustrations and charts📊
-3. Select the country & check the latest numbers from your country & also witness the weekly trends⤴️
-4. Connect the WHO team via Email, Call & WhatsApp📲
+* Get the latest numbers Total, Recovered & Deaths cases from the whole world in a single Dashboard⤴️
+* Visualize all the numbers through various illustrations and charts📊
+* Select the country & check the latest numbers from your country & also witness the weekly trends⤴️
+* Connect the WHO team via Email, Call & WhatsApp📲.
 
 (4) "𝗖𝗿𝗶𝗰𝗸𝗲𝘁 𝗧𝗿𝗶𝘃𝗶𝗮"😍 (𝗔𝗹𝗲𝘅𝗮 𝗦𝗸𝗶𝗹𝗹)
+
 👉Alexa Store: https://www.amazon.in/dp/B086K4N469
 
 𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨🎉
-Mind-Boggling Cricket Facts That'll Make You Go Woah!
-To start, just say "𝘼𝙡𝙚𝙭𝙖, 𝙥𝙡𝙖𝙮 𝘾𝙧𝙞𝙘𝙠𝙚𝙩 𝙏𝙧𝙞𝙫𝙞𝙖" or "𝘼𝙡𝙚𝙭𝙖, 𝙤𝙥𝙚𝙣 𝘾𝙧𝙞𝙘𝙠𝙚𝙩 𝙏𝙧𝙞𝙫𝙞𝙖" to get a fact".
+* Mind-Boggling Cricket Facts That'll Make You Go Woah!
+* To start, just say "𝘼𝙡𝙚𝙭𝙖, 𝙥𝙡𝙖𝙮 𝘾𝙧𝙞𝙘𝙠𝙚𝙩 𝙏𝙧𝙞𝙫𝙞𝙖" or "𝘼𝙡𝙚𝙭𝙖, 𝙤𝙥𝙚𝙣 𝘾𝙧𝙞𝙘𝙠𝙚𝙩 𝙏𝙧𝙞𝙫𝙞𝙖" to get a fact".
 
 (5) "kapil-raghuwanshi-resume" (𝗡𝗣𝗠 𝗽𝗮𝗰𝗸𝗮𝗴𝗲)
+
 👉 https://www.npmjs.com/package/kapil-raghuwanshi-resume
+
 𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨🎉
-The quick NPM Package of my Resume.
-Just jump to your terminal/command prompt (Hope you have Node installed) and type below into the CLI-
+* The quick NPM Package of my Resume.
+* Just jump to your terminal/command prompt (Hope you have Node installed) and type below into the CLI-
 `𝘯𝘱𝘹 𝘬𝘢𝘱𝘪𝘭-𝘳𝘢𝘨𝘩𝘶𝘸𝘢𝘯𝘴𝘩𝘪-𝘳𝘦𝘴𝘶𝘮𝘦`
 
 𝘔𝘢𝘯𝘺 𝘮𝘰𝘳𝘦 𝘈𝘸𝘦𝘴𝘰𝘮𝘦 𝘗𝘳𝘰𝘥𝘶𝘤𝘵𝘴 𝘤𝘰𝘮𝘪𝘯𝘨 𝘴𝘰𝘰𝘯..
