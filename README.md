@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-My name is Kapil Raghuwanshi👨🏻, software engineer👨🏻‍💻 hailing from India!🇮🇳 (Prefers using name: techygeeky). I'm technology craving and computer enthusiast, Full Stack Web, and Multiplatform Hybrid Mobile App developer always ready to learn and adopt new technologies at work.
+My name is 𝐊𝐚𝐩𝐢𝐥 𝐑𝐚𝐠𝐡𝐮𝐰𝐚𝐧𝐬𝐡𝐢👨🏻, software engineer👨🏻‍💻 hailing from India!🇮🇳 (Prefers using name: techygeeky). I'm technology craving and computer enthusiast, Full Stack Web, and Multiplatform Hybrid Mobile App developer always ready to learn and adopt new technologies at work.
 
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
