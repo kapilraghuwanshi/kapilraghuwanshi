@@ -13,9 +13,10 @@ My name is Kapil Raghuwanshi👨🏻, software engineer👨🏻‍💻 hailing f
 
 Proficient in developing rich UI, high volume, and low latency cross-platform Web and Mobile applications using React.js, Angular 10, Ionic 4 and IO & Network-intensive Node.js backend services and APIs with other Javascript related technologies. I'm currently programming in & as a MEAN & MERN Stack developer with the latest Angular, React, Node, Express and MongoDB and studying and exploring Machine Learning along with Deep Learning in my spare time. Check out my repos here.
 
-I'm an enthusiastic Tech Writer and Public Speaker. I write consistently on Medium under top publications like The StartUp, Better Programming, Towards Data Science and other famous tech blogging websites like FreeCodeCamp and HackerNoon etc. Love to share my knowledge through various webinars and tutorials. So far I have more than 20,000 views/reads on my articles. Received Communicator and Advanced Leadership Bronze certification by Toastmaster International. Also, spoke at many platforms regarding tech. Open for all Tech Talks, Tech Meet hosting, and other public speaking platforms too.
+I'm an enthusiastic Tech Writer and Public Speaker. I have received Communicator and Advanced Leadership Bronze certification by Toastmaster International.
+I write consistently on Medium under top publications like The StartUp, Better Programming, Towards Data Science and other famous tech blogging websites like FreeCodeCamp, DEV.to and HackerNoon etc. So far I have more than 20,000 views/reads on my articles. I Love to share my knowledge through various webinars and tutorials. I spoke at various platforms regarding technology. I am always open for all Tech Talks, Tech Meet hosting, and other public speaking platforms too.
 
-I run a software Tech Lab named as "Kia Labs", through which I am publishing all my software products like:
+I run a software Tech Lab named as "Kia Labs", through which I am publishing all my software products. List of which given below:
 
 (1) 𝗕𝗶𝗻𝗴𝗲 𝗦𝗲𝗮𝗿𝗰𝗵🔍-𝗬𝗼𝘂𝗿 𝗢𝗻𝗹𝗶𝗻𝗲 𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗚𝘂𝗶𝗱𝗲🎥😍
 Android: http://tiny.cc/8gwysz
