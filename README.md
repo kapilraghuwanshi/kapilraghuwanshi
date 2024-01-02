@@ -1,6 +1,6 @@
 
 ## Hey there!<a href="url"><img src="https://user-images.githubusercontent.com/38580123/190860440-ff83c1da-4d8e-4c91-898d-0b3de5890a10.gif" height="28" width="28" ></a>
-My name is 𝐊𝐚𝐩𝐢𝐥 𝐑𝐚𝐠𝐡𝐮𝐰𝐚𝐧𝐬𝐡𝐢👨🏻, software engineer👨🏻‍💻 hailing from India!🇮🇳 (Prefers using name: techygeeky). I'm technology craving and computer enthusiast, Full Stack Web, and Multiplatform Hybrid Mobile App developer always ready to learn and adopt new technologies at work.
+My name is 𝐊𝐚𝐩𝐢𝐥 𝐑𝐚𝐠𝐡𝐮𝐰𝐚𝐧𝐬𝐡𝐢👨🏻, software engineer👨🏻‍💻 hailing from India!🇮🇳 (Prefers using name: techygeeky). I'm technology craving and computer enthusiast, Full Stack Web (MERN Stack) and Multiplatform Hybrid Mobile App developer always ready to learn and adopt new technologies at work.
 
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -11,7 +11,9 @@ My name is 𝐊𝐚𝐩𝐢𝐥 𝐑𝐚𝐠𝐡𝐮𝐰𝐚𝐧𝐬𝐡𝐢👨
 ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
 ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-Proficient in developing rich UI, high volume, and low latency cross-platform Web and Mobile applications using React.js, Angular 10, Ionic 4 and IO & Network-intensive Node.js backend services and APIs with other Javascript related technologies. I'm currently programming in & as a MEAN & MERN Stack developer with the latest Angular, React, Node, Express and MongoDB and studying and exploring Machine Learning along with Deep Learning in my spare time. Check out my repositories here.
+Proficient in developing rich UI, high volume, and low latency Web solutions using React.js, and cross-platform Mobile applications(Android, iOS, PWA) using React-Native or Ionic Framework, Server Side Rendering using Nuxt.js. On the other hand, good at creating I/O & Network-intensive Node.js backend micro-services and APIs with other Javascript-related frameworks like Express, TS.ED etc. Also, Exploring and studying Machine Learning along with Deep Learning in my spare time. Right now I have a curiosity about Quantum Computing.
+
+Check out my repositories here.
 
 I'm an enthusiastic Tech Writer and Public Speaker. I have received Communicator and Advanced Leadership Bronze certification by Toastmaster International.
 I write consistently on Medium under top publications like The StartUp, Better Programming, Towards Data Science and other famous tech blogging websites like FreeCodeCamp, DEV.to and HackerNoon etc. So far I have more than 25𝒌 𝒓𝒆𝒂𝒅𝒔/𝒗𝒊𝒆𝒘𝒔 on my articles. I Love to share my knowledge through various webinars and tutorials. I spoke at various platforms regarding technology. I am always open for all Tech Talks, Tech Meet hosting, and other public speaking platforms too.
