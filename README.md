@@ -1,6 +1,6 @@
 
 ## Hey there!<a href="url"><img src="https://user-images.githubusercontent.com/38580123/190860440-ff83c1da-4d8e-4c91-898d-0b3de5890a10.gif" height="28" width="28" ></a>
-My name is 𝐊𝐚𝐩𝐢𝐥 𝐑𝐚𝐠𝐡𝐮𝐰𝐚𝐧𝐬𝐡𝐢👨🏻, software engineer👨🏻‍💻 hailing from India!🇮🇳 (Prefers using name: techygeeky). I'm technology craving and computer enthusiast, Full Stack Web (MERN Stack) and Multiplatform Hybrid Mobile App developer always ready to learn and adopt new technologies at work.
+My name is 𝐊𝐚𝐩𝐢𝐥 𝐑𝐚𝐠𝐡𝐮𝐰𝐚𝐧𝐬𝐡𝐢👨🏻, software engineer👨🏻‍💻 hailing from India!🇮🇳 (Prefers using name: techygeeky). I'm technology craving and computer enthusiast, Full Stack Web (MERN Stack) and Multiplatform Hybrid Mobile App developer, Tech Content Creator 📹, Tech Speaker🎙& Blogger📝 with 100k+ reads, Software Development Instructor 🧑‍🏫 & Mentor to 500+ Students. #BeATechMonk🧘
 
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
