@@ -3,13 +3,12 @@
 My name is 𝐊𝐚𝐩𝐢𝐥 𝐑𝐚𝐠𝐡𝐮𝐰𝐚𝐧𝐬𝐡𝐢👨🏻, software engineer👨🏻‍💻 hailing from India!🇮🇳 (Prefers using name: techygeeky). I'm technology craving and computer enthusiast, Full Stack Web (MERN Stack) and Multiplatform Hybrid Mobile App developer, Tech Content Creator 📹, Tech Speaker🎙& Blogger📝 with 100k+ reads, Software Development Instructor 🧑‍🏫 & Mentor to 500+ Students. #BeATechMonk🧘
 
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
-![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
 
 Proficient in developing rich UI, high volume, and low latency Web solutions using React.js, and cross-platform Mobile applications(Android, iOS, PWA) using React-Native or Ionic Framework, Server Side Rendering using Nuxt.js. On the other hand, good at creating I/O & Network-intensive Node.js backend micro-services and APIs with other Javascript-related frameworks like Express, TS.ED etc. Also, Exploring and studying Machine Learning along with Deep Learning in my spare time. Right now I have a curiosity about Quantum Computing.
 
