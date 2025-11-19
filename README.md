@@ -1,14 +1,19 @@
 
 ## Hey there!<a href="url"><img src="https://user-images.githubusercontent.com/38580123/190860440-ff83c1da-4d8e-4c91-898d-0b3de5890a10.gif" height="28" width="28" ></a>
-My name is 𝐊𝐚𝐩𝐢𝐥 𝐑𝐚𝐠𝐡𝐮𝐰𝐚𝐧𝐬𝐡𝐢, software engineer👨🏻‍💻 (prefers calling: **Tech Monk-Kapil**) hailing from India!🇮🇳 . I'm technology craving and computer enthusiast, Full Stack Web (MERN Stack) and Multiplatform Hybrid Mobile App, AI Developer, Tech Content Creator 📹, Tech Speaker🎙& Blogger📝 with 100k+ reads, Software Development Instructor 🧑‍🏫 & Mentor to 500+ Students. #BeATechMonk🧘
+My name is 𝐊𝐚𝐩𝐢𝐥 𝐑𝐚𝐠𝐡𝐮𝐰𝐚𝐧𝐬𝐡𝐢, software engineer👨🏻‍💻 (prefers calling: **Tech Monk-Kapil**) hailing from India!🇮🇳. I'm technology-craving and computer enthusiast, Full Stack Web (MERN Stack) and Multiplatform Hybrid Mobile App, AI Developer, Tech Content Creator 📹, Tech Speaker🎙 & Blogger📝 with 100k+ reads, Software Development Instructor 🧑‍🏫 & Mentor to 500+ Students. #BeATechMonk🧘
 
-![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) 
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
-![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-0A66C2?style=for-the-badge&logo=azure-architecture-center&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-4A00E0?style=for-the-badge&logo=dependabot&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1D3B53?style=for-the-badge&logo=langchain&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge&logo=databricks&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white)
+
+
 
 Proficient in developing rich UI, high volume, and low latency Web solutions using React.js, and cross-platform Mobile applications(Android, iOS, PWA) using React-Native or Ionic Framework, Server Side Rendering using Nuxt.js. On the other hand, good at creating I/O & Network-intensive Node.js backend micro-services and APIs with other Javascript-related frameworks like Express, TS.ED etc. Also, Exploring and studying Machine Learning along with Deep Learning in my spare time. Right now I have a curiosity about Quantum Computing.
 
