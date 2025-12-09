@@ -1,6 +1,6 @@
 
 ## Hey there!<a href="url"><img src="https://user-images.githubusercontent.com/38580123/190860440-ff83c1da-4d8e-4c91-898d-0b3de5890a10.gif" height="28" width="28" ></a>
-My name is 𝐊𝐚𝐩𝐢𝐥 𝐑𝐚𝐠𝐡𝐮𝐰𝐚𝐧𝐬𝐡𝐢, software engineer👨🏻‍💻 (prefers calling: **Tech Monk-Kapil**) hailing from India!🇮🇳. I'm technology-craving and computer enthusiast, Full Stack Web (MERN Stack) and Multiplatform Hybrid Mobile App, AI Developer, Tech Content Creator 📹, Tech Speaker🎙 & Blogger📝 with 100k+ reads, Software Development Instructor 🧑‍🏫 & Mentor to 500+ Students. #BeATechMonk🧘
+My name is 𝐊𝐚𝐩𝐢𝐥 𝐑𝐚𝐠𝐡𝐮𝐰𝐚𝐧𝐬𝐡𝐢, senior/staff software engineer👨🏻‍💻 (prefers calling: **Tech Monk-Kapil**) hailing from Bangalore, India!🇮🇳. I'm a technology-craving and computer enthusiast, Full Stack Web (MERN Stack) and Gen AI Developer, Multiplatform Hybrid Mobile App, Tech Content Creator 📹, Tech Speaker🎙 & Blogger📝 with 100k+ reads, Software Development Instructor 🧑‍🏫 & Mentor to 500+ Students. #BeATechMonk🧘
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -14,15 +14,14 @@ My name is 𝐊𝐚𝐩𝐢𝐥 𝐑𝐚𝐠𝐡𝐮𝐰𝐚𝐧𝐬𝐡𝐢, so
 ![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white)
 
 
+Proficient in developing rich UI, high volume, and low latency Web solutions using React.js, and cross-platform Mobile applications(Android, iOS, PWA) using React-Native or Ionic Framework, Server Side Rendering using Nuxt.js. On the other hand, good at creating I/O & Network-intensive Node.js backend micro-services and APIs with other JavaScript-related frameworks like Express, TS.ED etc. Also, exploring and studying Machine Learning along with Deep Learning in my spare time. Right now, I have a curiosity about Quantum Computing.
 
-Proficient in developing rich UI, high volume, and low latency Web solutions using React.js, and cross-platform Mobile applications(Android, iOS, PWA) using React-Native or Ionic Framework, Server Side Rendering using Nuxt.js. On the other hand, good at creating I/O & Network-intensive Node.js backend micro-services and APIs with other Javascript-related frameworks like Express, TS.ED etc. Also, Exploring and studying Machine Learning along with Deep Learning in my spare time. Right now I have a curiosity about Quantum Computing.
+Check out my GitHub repositories here.
 
-Check out my repositories here.
+I'm an enthusiastic Tech Writer and Public Speaker. I have received Communicator and Advanced Leadership Bronze certifications from Toastmasters International.
+I write consistently on Medium under top publications like The StartUp, Better Programming, Towards Data Science, and other famous tech blogging websites like FreeCodeCamp, DEV.to, and HackerNoon, etc. So far, I have more than 25𝒌 𝒓𝒆𝒂𝒅𝒔/𝒗𝒊𝒆𝒘𝒔 on my articles. I love to share my knowledge through various webinars and tutorials. I spoke at various platforms regarding technology. I am always open to all Tech Talks, Tech Meet hosting, and other public speaking platforms, too.
 
-I'm an enthusiastic Tech Writer and Public Speaker. I have received Communicator and Advanced Leadership Bronze certification by Toastmaster International.
-I write consistently on Medium under top publications like The StartUp, Better Programming, Towards Data Science and other famous tech blogging websites like FreeCodeCamp, DEV.to and HackerNoon etc. So far I have more than 25𝒌 𝒓𝒆𝒂𝒅𝒔/𝒗𝒊𝒆𝒘𝒔 on my articles. I Love to share my knowledge through various webinars and tutorials. I spoke at various platforms regarding technology. I am always open for all Tech Talks, Tech Meet hosting, and other public speaking platforms too.
-
-I run a software Tech Lab named as "K̳i̳a̳ ̳L̳a̳b̳s̳", through which I am publishing all my software products. List of which given below:
+I run a software Tech Lab named "K̳i̳a̳ ̳L̳a̳b̳s̳", through which I am publishing all my software products. List of which is given below:
 
 (1) 𝗕𝗶𝗻𝗴𝗲 𝗦𝗲𝗮𝗿𝗰𝗵🔍 - 𝗬𝗼𝘂𝗿 𝗢𝗻𝗹𝗶𝗻𝗲 𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗚𝘂𝗶𝗱𝗲🎥😍
 
@@ -31,7 +30,7 @@ Android: http://tiny.cc/8gwysz
 Website/PWA: https://www.bingesearch.com
 
 𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨:🎉
-* Search your next binge-watch content.
+* Search for your next binge-watch content.
 * Your watch is just one click away.
 
 (2) 𝗪𝗼𝗿𝗹𝗱 𝗧𝗼𝗽 𝗡𝗲𝘄𝘀 - 𝗥𝗲𝗮𝗱 𝘁𝗵𝗲 𝗯𝘂𝗹𝗹𝗲𝘁𝗶𝗻𝘀 𝗶𝗻 𝘀𝗵𝗼𝗿𝘁😍
@@ -53,7 +52,7 @@ PWA: https://coronatracker-20efc.web.app/
 App: https://tinyurl.com/ydgjzvfg
 
 𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨🎉
-* Get the latest numbers Total, Recovered & Deaths cases from the whole world in a single Dashboard⤴️
+* Get the latest numbers, Total, Recovered & Deaths cases from the whole world in a single Dashboard⤴️
 * Visualize all the numbers through various illustrations and charts📊
 * Select the country & check the latest numbers from your country & also witness the weekly trends⤴️
 * Connect the WHO team via Email, Call & WhatsApp📲.
@@ -63,8 +62,8 @@ App: https://tinyurl.com/ydgjzvfg
 👉Alexa Store: https://www.amazon.in/dp/B086K4N469
 
 𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨🎉
-* Mind-Boggling Cricket Facts That'll Make You Go Woah!
-* To start, just say "𝘼𝙡𝙚𝙭𝙖, 𝙥𝙡𝙖𝙮 𝘾𝙧𝙞𝙘𝙠𝙚𝙩 𝙏𝙧𝙞𝙫𝙞𝙖" or "𝘼𝙡𝙚𝙭𝙖, 𝙤𝙥𝙚𝙣 𝘾𝙧𝙞𝙘𝙠𝙚𝙩 𝙏𝙧𝙞𝙫𝙞𝙖" to get a fact".
+* Mind-Boggling Cricket Facts That'll Make You Go Whoa!
+* To start, just say "𝘼𝙡𝙚𝙭𝙖, 𝙥𝙡𝙖𝙮 𝘾𝙧𝙞𝙘𝙠𝙚𝙩 𝙏𝙧𝙞𝙫𝙞𝙖" or "𝘼𝙡𝙚𝙭𝙖, 𝙤𝙥𝙚𝙣 𝘾𝙧𝙞𝙘𝙠𝙚𝙩 𝙏𝙧𝙞𝙫𝙞𝙖" to get a fact.
 
 (5) "kapil-raghuwanshi-resume" (𝗡𝗣𝗠 𝗽𝗮𝗰𝗸𝗮𝗴𝗲)
 
@@ -77,7 +76,7 @@ App: https://tinyurl.com/ydgjzvfg
 
 𝘔𝘢𝘯𝘺 𝘮𝘰𝘳𝘦 𝘈𝘸𝘦𝘴𝘰𝘮𝘦 𝘗𝘳𝘰𝘥𝘶𝘤𝘵𝘴 𝘤𝘰𝘮𝘪𝘯𝘨 𝘴𝘰𝘰𝘯..
 
-I decided to continue my work and study in the fields of Software product development in Computer Science. I wish to help the world, the common people with my technical skills and inventions. It's my all-time dream to become a visionary leader, an orator, and a philanthropist.
+I decided to continue my work and study in the field of Software product development in Computer Science. I wish to help the world, the common people with my technical skills and inventions. It's my all-time dream to become a visionary leader, an orator, and a philanthropist.
 
 #javascript #reactjs #angular #nodejs #typescript #machinelearning #deeplearning #ionic #mobile #android #ios #technology #writer #speaker
 
