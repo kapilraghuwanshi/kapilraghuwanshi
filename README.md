@@ -3,23 +3,28 @@
 My name is 𝐊𝐚𝐩𝐢𝐥 𝐑𝐚𝐠𝐡𝐮𝐰𝐚𝐧𝐬𝐡𝐢, senior/staff software engineer👨🏻‍💻 (prefers calling: **Tech Monk-Kapil**) hailing from Bangalore, India!🇮🇳. I'm a technology-craving and computer enthusiast, Full Stack Web (MERN Stack) and Gen AI Developer, Multiplatform Hybrid Mobile App, Tech Content Creator 📹, Tech Speaker🎙 & Blogger📝 with 100k+ reads, Software Development Instructor 🧑‍🏫 & Mentor to 500+ Students. #BeATechMonk🧘
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![System Design](https://img.shields.io/badge/System%20Design-0A66C2?style=for-the-badge&logo=azure-architecture-center&logoColor=white)
 ![GenAI](https://img.shields.io/badge/GenAI-4A00E0?style=for-the-badge&logo=dependabot&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-1F2937?style=for-the-badge&logo=googlebrain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1D3B53?style=for-the-badge&logo=langchain&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge&logo=databricks&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white)
 
 
-Proficient in developing rich UI, high volume, and low latency Web solutions using React.js, and cross-platform Mobile applications(Android, iOS, PWA) using React-Native or Ionic Framework, Server Side Rendering using Nuxt.js. On the other hand, good at creating I/O & Network-intensive Node.js backend micro-services and APIs with other JavaScript-related frameworks like Express, TS.ED etc. Also, exploring and studying Machine Learning along with Deep Learning in my spare time. Right now, I have a curiosity about Quantum Computing.
+
+
+Proficient in developing rich UI, high volume, and low latency Web solutions using React.js, and cross-platform Mobile applications(Android, iOS, PWA) using React-Native or Ionic Framework, Server Side Rendering using Nuxt.js. On the other hand, proficient in creating I/O & Network-intensive Node.js backend microservices and APIs using other JavaScript-related frameworks, such as Express and TypeScript.ED etc. Also, exploring and studying Machine Learning, along with Deep Learning, in my spare time. Right now, I have a curiosity about Quantum Computing.
 
 Check out my GitHub repositories here.
 
 I'm an enthusiastic Tech Writer and Public Speaker. I have received Communicator and Advanced Leadership Bronze certifications from Toastmasters International.
-I write consistently on Medium under top publications like The StartUp, Better Programming, Towards Data Science, and other famous tech blogging websites like FreeCodeCamp, DEV.to, and HackerNoon, etc. So far, I have more than 25𝒌 𝒓𝒆𝒂𝒅𝒔/𝒗𝒊𝒆𝒘𝒔 on my articles. I love to share my knowledge through various webinars and tutorials. I spoke at various platforms regarding technology. I am always open to all Tech Talks, Tech Meet hosting, and other public speaking platforms, too.
+I write consistently on Medium under top publications like The StartUp, Better Programming, Towards Data Science, and other famous tech blogging websites like FreeCodeCamp, DEV.to, and HackerNoon etc. So far, I have more than 25𝒌 𝒓𝒆𝒂𝒅𝒔/𝒗𝒊𝒆𝒘𝒔 on my articles. I love to share my knowledge through various webinars and tutorials. I spoke at various platforms regarding technology. I am always open to all Tech Talks, Tech Meet hosting, and other public speaking platforms, too.
 
 I run a software Tech Lab named "K̳i̳a̳ ̳L̳a̳b̳s̳", through which I am publishing all my software products. List of which is given below:
 
