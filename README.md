@@ -5,19 +5,16 @@ My name is 𝐊𝐚𝐩𝐢𝐥 𝐑𝐚𝐠𝐡𝐮𝐰𝐚𝐧𝐬𝐡𝐢, se
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-0A66C2?style=for-the-badge&logo=azure-architecture-center&logoColor=white)
 ![GenAI](https://img.shields.io/badge/GenAI-4A00E0?style=for-the-badge&logo=dependabot&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-1F2937?style=for-the-badge&logo=googlebrain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1D3B53?style=for-the-badge&logo=langchain&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge&logo=databricks&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white)
-
-
-
+![System Design](https://img.shields.io/badge/System%20Design-0A66C2?style=for-the-badge&logo=azure-architecture-center&logoColor=white)
 
 Proficient in developing rich UI, high volume, and low latency Web solutions using React.js, and cross-platform Mobile applications(Android, iOS, PWA) using React-Native or Ionic Framework, Server Side Rendering using Nuxt.js. On the other hand, proficient in creating I/O & Network-intensive Node.js backend microservices and APIs using other JavaScript-related frameworks, such as Express and TypeScript.ED etc. Also, exploring and studying Machine Learning, along with Deep Learning, in my spare time. Right now, I have a curiosity about Quantum Computing.
 
