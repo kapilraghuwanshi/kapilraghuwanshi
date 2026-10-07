@@ -1,7 +1,4 @@
-
-## Hey there!<a href="url"><img src="https://user-images.githubusercontent.com/38580123/190860440-ff83c1da-4d8e-4c91-898d-0b3de5890a10.gif" height="28" width="28" ></a>
-My name is 𝐊𝐚𝐩𝐢𝐥 𝐑𝐚𝐠𝐡𝐮𝐰𝐚𝐧𝐬𝐡𝐢, senior/staff software engineer👨🏻‍💻 (prefers calling: **Tech Monk-Kapil**) hailing from Bangalore, India!🇮🇳. I'm a technology-craving and computer enthusiast, Full Stack Web (MERN Stack) and Gen AI Developer, Multiplatform Hybrid Mobile App, Tech Content Creator 📹, Tech Speaker🎙 & Blogger📝 with 100k+ reads, Software Development Instructor 🧑‍🏫 & Mentor to 500+ Students. #BeATechMonk🧘
-
+## 👋 Hi, I'm Kapil Raghuwanshi
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
@@ -13,83 +10,123 @@ My name is 𝐊𝐚𝐩𝐢𝐥 𝐑𝐚𝐠𝐡𝐮𝐰𝐚𝐧𝐬𝐡𝐢, se
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![System Design](https://img.shields.io/badge/System%20Design-0A66C2?style=for-the-badge&logo=azure-architecture-center&logoColor=white)
 
-Proficient in developing rich UI, high volume, and low latency Web solutions using React.js, and cross-platform Mobile applications(Android, iOS, PWA) using React-Native or Ionic Framework, Server Side Rendering using Nuxt.js. On the other hand, proficient in creating I/O & Network-intensive Node.js backend microservices and APIs using other JavaScript-related frameworks, such as Express and TypeScript.ED etc. Also, exploring and studying Machine Learning, along with Deep Learning, in my spare time. Right now, I have a curiosity about Quantum Computing.
+Staff Full-Stack AI Engineer • Solution Architect • 0→1 Product Builder
 
-Check out my GitHub repositories here.
+> **I turn ambiguous ideas into scalable products, intelligent systems, and delightful user experiences.**
 
-I'm an enthusiastic Tech Writer and Public Speaker. I have received Communicator and Advanced Leadership Bronze certifications from Toastmasters International.
-I write consistently on Medium under top publications like The StartUp, Better Programming, Towards Data Science, and other famous tech blogging websites like FreeCodeCamp, DEV.to, and HackerNoon etc. So far, I have more than 25𝒌 𝒓𝒆𝒂𝒅𝒔/𝒗𝒊𝒆𝒘𝒔 on my articles. I love to share my knowledge through various webinars and tutorials. I spoke at various platforms regarding technology. I am always open to all Tech Talks, Tech Meet hosting, and other public speaking platforms, too.
+I'm a Software Engineer with **10+ years of experience** building production systems across **Frontend, Full-Stack Engineering, Distributed Systems, and AI**. Currently, I work at **Walmart Global Tech**, where I build and architect large-scale platforms used by teams across global markets.
 
-I run a software Tech Lab named "K̳i̳a̳ ̳L̳a̳b̳s̳", through which I am publishing all my software products. List of which is given below:
+My engineering journey started with building web and mobile products, evolved into frontend architecture and large-scale platforms, and now extends into **AI-native and Agentic AI systems**. I enjoy taking ideas from **0 → 1**: **Problem → Architecture → Build → Ship → Measure → Iterate**
 
-(1) 𝗕𝗶𝗻𝗴𝗲 𝗦𝗲𝗮𝗿𝗰𝗵🔍 - 𝗬𝗼𝘂𝗿 𝗢𝗻𝗹𝗶𝗻𝗲 𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗚𝘂𝗶𝗱𝗲🎥😍
+## 🚀 What I Build
 
-Android: http://tiny.cc/8gwysz
+- 🤖 **AI-native & Agentic AI applications**
+- 🧠 **LLM, RAG & AI orchestration systems**
+- 🔌 **MCP servers, tools & AI integrations**
+- 🏗️ **Full-stack products & scalable architectures**
+- ⚛️ **Frontend platforms & design systems**
+- 🌐 **Distributed & event-driven systems**
+- ⚡ **High-performance web applications**
+- 🚀 **0→1 products from idea to production**
 
-Website/PWA: https://www.bingesearch.com
+## ⭐ Featured Projects
+A selection of products, experiments and engineering projects I've built across AI, full-stack development, frontend engineering and developer tooling.
 
-𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨:🎉
-* Search for your next binge-watch content.
-* Your watch is just one click away.
+### 🔌 MCP Server & AI Skills
+Exploring the next generation of AI-native developer tooling.
+Building MCP servers, reusable AI skills and tool integrations that allow AI systems to interact with real-world applications and developer workflows.
 
-(2) 𝗪𝗼𝗿𝗹𝗱 𝗧𝗼𝗽 𝗡𝗲𝘄𝘀 - 𝗥𝗲𝗮𝗱 𝘁𝗵𝗲 𝗯𝘂𝗹𝗹𝗲𝘁𝗶𝗻𝘀 𝗶𝗻 𝘀𝗵𝗼𝗿𝘁😍
+### 🔎 BingeSearch
+A search experience for discovering what to watch next.
+One of my early 0→1 product experiments, built end-to-end from product idea to working web/PWA experience.
+🌐 https://www.bingesearch.com
 
+### 🐾 Paws Off Screen Gatekeeper
+A browser productivity & screen-gating extension built from 0→1.
+A practical browser-extension project focused on controlling distracting or unwanted screen interactions.
+🔗 https://github.com/kapilraghuwanshi/paws-off-screen-gatekeeper
+
+### 🌍 World Sync
+A real-time synchronization experiment for modern applications.
+Exploring how distributed applications can keep state synchronized across clients and services.
+
+### 🌍 𝗪𝗼𝗿𝗹𝗱 𝗧𝗼𝗽 𝗡𝗲𝘄𝘀 - 𝗥𝗲𝗮𝗱 𝘁𝗵𝗲 𝗯𝘂𝗹𝗹𝗲𝘁𝗶𝗻𝘀 𝗶𝗻 𝘀𝗵𝗼𝗿𝘁
 Android: https://goo.gl/TxUuUm
-
 PWA: https://worldtopnews-91916.web.app/
 
-𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨🎉
-* Share the latest news with your friends and family members through WhatsApp, FB, Twitter⤴️
-* Select from the world's best exclusively hand-picked Publishers📚
-* Dive into Categories - Business, Technology, Health, Sports, Science & Entertainment📽️
-* Save your favorite news articles on the device for a future read.
-
-(3) 𝗖𝗼𝗿𝗼𝗻𝗮 𝗧𝗿𝗮𝗰𝗸𝗲𝗿📊 - 𝗧𝗿𝗮𝗰𝗸 𝘁𝗵𝗲 𝗹𝗮𝘁𝗲𝘀𝘁 𝗖𝗼𝗿𝗼𝗻𝗮 𝗩𝗶𝗿𝘂𝘀 𝗰𝗮𝘀𝗲𝘀 𝗮𝗿𝗼𝘂𝗻𝗱 𝘆𝗼𝘂📒
-
+### 📒𝗖𝗼𝗿𝗼𝗻𝗮 𝗧𝗿𝗮𝗰𝗸𝗲𝗿📊 - 𝗧𝗿𝗮𝗰𝗸 𝘁𝗵𝗲 𝗹𝗮𝘁𝗲𝘀𝘁 𝗖𝗼𝗿𝗼𝗻𝗮 𝗩𝗶𝗿𝘂𝘀 𝗰𝗮𝘀𝗲𝘀 𝗮𝗿𝗼𝘂𝗻𝗱 𝘆𝗼𝘂
 PWA: https://coronatracker-20efc.web.app/
-
 App: https://tinyurl.com/ydgjzvfg
 
-𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨🎉
-* Get the latest numbers, Total, Recovered & Deaths cases from the whole world in a single Dashboard⤴️
-* Visualize all the numbers through various illustrations and charts📊
-* Select the country & check the latest numbers from your country & also witness the weekly trends⤴️
-* Connect the WHO team via Email, Call & WhatsApp📲.
+### 𝗖𝗿𝗶𝗰𝗸𝗲𝘁 𝗧𝗿𝗶𝘃𝗶𝗮 (𝗔𝗹𝗲𝘅𝗮 𝗦𝗸𝗶𝗹𝗹)
+Mind-Boggling Cricket Facts That'll Make You Go Whoa!
+To start, just say "𝘼𝙡𝙚𝙭𝙖, 𝙥𝙡𝙖𝙮 𝘾𝙧𝙞𝙘𝙠𝙚𝙩 𝙏𝙧𝙞𝙫𝙞𝙖" or "𝘼𝙡𝙚𝙭𝙖, 𝙤𝙥𝙚𝙣 𝘾𝙧𝙞𝙘𝙠𝙚𝙩 𝙏𝙧𝙞𝙫𝙞𝙖" to get a fact.
+  👉 Alexa Store: https://www.amazon.in/dp/B086K4N469
 
-(4) "𝗖𝗿𝗶𝗰𝗸𝗲𝘁 𝗧𝗿𝗶𝘃𝗶𝗮"😍 (𝗔𝗹𝗲𝘅𝗮 𝗦𝗸𝗶𝗹𝗹)
+### kapil-raghuwanshi-resume (resume as 𝗡𝗣𝗠 𝗽𝗮𝗰𝗸𝗮𝗴𝗲)
+  👉 https://www.npmjs.com/package/kapil-raghuwanshi-resume
+---
 
-👉Alexa Store: https://www.amazon.in/dp/B086K4N469
+### 🛠️ Technology
+- Frontend
+React, Next.js, TypeScript, JavaScript, HTML, CSS, Vite
+- Backend
+Node.js, Express, REST, GraphQL,Python
+- AI / GenAI
+LLMs, RAG, AI, Agents, MCP, LangChain, LangGraph, Embeddings, Vector DB
+- Data
+PostgreSQL, MongoDB, Redis, Cosmos DB
+- Distributed Systems
+Kafka, Event-Driven Architecture, Microservices, WebSockets
+- Cloud & DevOps
+Azure, Docker, Kubernetes, CI/CD, Istio, CDN
+- Engineering
+System Design, Performance, Accessibility, Design Systems, Testing, Observability, A/B Testing 
+---
 
-𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨🎉
-* Mind-Boggling Cricket Facts That'll Make You Go Whoa!
-* To start, just say "𝘼𝙡𝙚𝙭𝙖, 𝙥𝙡𝙖𝙮 𝘾𝙧𝙞𝙘𝙠𝙚𝙩 𝙏𝙧𝙞𝙫𝙞𝙖" or "𝘼𝙡𝙚𝙭𝙖, 𝙤𝙥𝙚𝙣 𝘾𝙧𝙞𝙘𝙠𝙚𝙩 𝙏𝙧𝙞𝙫𝙞𝙖" to get a fact.
+### 🎤 Speaker • Writer • Mentor
+I enjoy sharing what I've learned with the engineering community.
+🎙️ 100+ technical talks, webinars, podcasts & training sessions
+📝 150K+ article reads
+👨‍🏫 Mentored and trained software engineers across different experience levels
 
-(5) "kapil-raghuwanshi-resume" (𝗡𝗣𝗠 𝗽𝗮𝗰𝗸𝗮𝗴𝗲)
+Topics I regularly speak/write about:
+- AI & Agentic AI
+- System Design
+- Frontend Architecture
+- React
+- JavaScript
+- Software Engineering
+- Career Growth
+- Engineering Leadership
 
-👉 https://www.npmjs.com/package/kapil-raghuwanshi-resume
-
-𝙆𝙚𝙮 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨🎉
-* The quick NPM Package of my Resume.
-* Just jump to your terminal/command prompt (Hope you have Node installed) and type below into the CLI-
-`𝘯𝘱𝘹 𝘬𝘢𝘱𝘪𝘭-𝘳𝘢𝘨𝘩𝘶𝘸𝘢𝘯𝘴𝘩𝘪-𝘳𝘦𝘴𝘶𝘮𝘦`
+### Tech Monk Kapil 🧘‍♂️
+I share engineering, AI and career content through:
+YouTube • LinkedIn • Instagram • X • Technical Writing
 
 𝘔𝘢𝘯𝘺 𝘮𝘰𝘳𝘦 𝘈𝘸𝘦𝘴𝘰𝘮𝘦 𝘗𝘳𝘰𝘥𝘶𝘤𝘵𝘴 𝘤𝘰𝘮𝘪𝘯𝘨 𝘴𝘰𝘰𝘯..
 
-I decided to continue my work and study in the field of Software product development in Computer Science. I wish to help the world, the common people with my technical skills and inventions. It's my all-time dream to become a visionary leader, an orator, and a philanthropist.
+---
+### If you're interested in:
+- 🤖 AI / Agentic AI
+- 🏗️ System Design
+- ⚛️ Frontend Architecture
+- 🚀 0→1 Product Building
+- 🧠 Engineering Leadership
+- 🎤 Technical Speaking
 
-#javascript #reactjs #angular #nodejs #typescript #machinelearning #deeplearning #ionic #mobile #android #ios #technology #writer #speaker
-
-- 📫 How to reach me:- 
+> 📫 How to reach me:- 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapil.raghuwanshi5@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=TechyGeeeky)](https://twitter.com/techygeeeky)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kapilraghuwanshi/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techygeeeky/)
-
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@techygeeky)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8668095/kapil-raghuwanshi)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/techygeeky)
 
-Portfolio Website: https://about.me/kialabs
+***Be fearless🦁 in the pursuit of what sets your soul on fire!⚡***
 
-- "Be fearless🦁 in the pursuit of what sets your soul on fire!⚡"
+> Build. Learn. Share. Repeat.
+
+### 🧘 #BeATechMonk
