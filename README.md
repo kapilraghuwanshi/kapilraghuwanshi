@@ -10,13 +10,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![System Design](https://img.shields.io/badge/System%20Design-0A66C2?style=for-the-badge&logo=azure-architecture-center&logoColor=white)
 
-Staff Full-Stack AI Engineer • Solution Architect • 0→1 Product Builder
-
-> **I turn ambiguous ideas into scalable products, intelligent systems, and delightful user experiences.**
+> Staff Full-Stack AI Engineer • Solution Architect • 0→1 Product Builder
 
 I'm a Software Engineer with **10+ years of experience** building production systems across **Frontend, Full-Stack Engineering, Distributed Systems, and AI**. Currently, I work at **Walmart Global Tech**, where I build and architect large-scale platforms used by teams across global markets.
 
-My engineering journey started with building web and mobile products, evolved into frontend architecture and large-scale platforms, and now extends into **AI-native and Agentic AI systems**. I enjoy taking ideas from **0 → 1**: **Problem → Architecture → Build → Ship → Measure → Iterate**
+My engineering journey started with building web and mobile products, evolved into frontend architecture and large-scale platforms, and now extends into **AI-native and Agentic AI systems**. I enjoy taking ideas from **0 → 1**: 
+**Problem → Architecture → Build → Ship → Measure → Iterate**
+
+> **I turn ambiguous ideas into scalable products, intelligent systems, and delightful user experiences.**
 
 ## 🚀 What I Build
 
@@ -65,6 +66,7 @@ To start, just say "𝘼𝙡𝙚𝙭𝙖, 𝙥𝙡𝙖𝙮 𝘾𝙧𝙞𝙘𝙠�
 
 ### kapil-raghuwanshi-resume (resume as 𝗡𝗣𝗠 𝗽𝗮𝗰𝗸𝗮𝗴𝗲)
   👉 https://www.npmjs.com/package/kapil-raghuwanshi-resume
+  
 ---
 
 ### 🛠️ Technology
@@ -115,7 +117,7 @@ YouTube • LinkedIn • Instagram • X • Technical Writing
 - 🧠 Engineering Leadership
 - 🎤 Technical Speaking
 
-> 📫 How to reach me:- 
+> 📫 Reach out to me:- 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapil.raghuwanshi5@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=TechyGeeeky)](https://twitter.com/techygeeeky)
@@ -125,8 +127,8 @@ YouTube • LinkedIn • Instagram • X • Technical Writing
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8668095/kapil-raghuwanshi)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/techygeeky)
 
-***Be fearless🦁 in the pursuit of what sets your soul on fire!⚡***
+> ***Be fearless🦁 in the pursuit of what sets your soul on fire!⚡***
 
-> Build. Learn. Share. Repeat.
+Build. Learn. Share. Repeat.
 
 ### 🧘 #BeATechMonk
